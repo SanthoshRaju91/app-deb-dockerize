@@ -1,0 +1,7 @@
+Package: Application
+Version: 1.5.0+f429d4a
+Maintainer: Ma Ma
+Architecture: amd64
+Depends: python, python3, perl
+Homepage: Home page for the application
+Description: Description for the application goes heres
